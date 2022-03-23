@@ -1,11 +1,7 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: ¿Porque he decidido hacer este blog?
-draft: false
+draft: 
 date: 2022/03/18
-short: Contamos cómo se puede crear un blog de ejemplo a partir de otro
- tipo de archivos.
+short: He decidido hacer este blog, porque es un tema que no se suele hablar mucho y quería recordar a la gente que existen estas cosas, las cuales son muy importantes para las escuelas.
 ---
-
-Terms
-Privacy

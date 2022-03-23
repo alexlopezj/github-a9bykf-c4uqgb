@@ -1,10 +1,14 @@
 ---
 layout: ../../layouts/BlogPostLayout.astro
 title: Las noticias
-draft: false
+draft:
 date: 2022/03/18
-short: Contamos cómo se puede crear un blog de ejemplo a partir de otro
- tipo de archivos.
+short:La mejora del éxito educativo de todo el alumnado y la reducción del abandono educativo temprano son
+políticas clave del Ministerio de Educación y Formación Profesional. Las consecuencias que el abandono
+educativo temprano tiene en la vida de los ciudadanos son demasiado importantes como para no dedicarles
+la debida atención. Las múltiples implicaciones personales, sociales y económicas de este fenómeno,
+así como el marco descentralizado en el que se aplican las políticas educativas, ha exigido el diseño de
+programas de mejora significativa.
 ---
 
 Ejemplo de entrada de blog generada con un formato diferente
